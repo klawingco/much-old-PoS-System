@@ -1,0 +1,496 @@
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportListAllMember.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportListEmployee.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportListSupplier.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportLoanPayment.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReporAllFeeShareCap.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReporAllFeeProc.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReporAllFee1.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllProdLessQTY.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllProdExp.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllProdReturn.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllProd.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllProdReceive.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllProdReq.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllPurchItems.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllPurchProcByUser.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportAllPurchSupplier.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportLoansAllPaid.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportLoansAllUnpaid.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportLoansPerMember.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportLoansAll.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportLoansDueLoans.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportLoansProcUSer.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportMiscAuditTrail.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportMiscEndWeek.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportMiscEndDay.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportMiscInventoryReport.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportMiscTransHistory.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetailNonMemOnly.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetailMemOnly.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetail.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusNonMemOnly.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusMemOnly.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusSum.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportSalesByItems.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportSavedTrans.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\Reports\ReportAllProd.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportTransAllPerLoansPerMem.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportTransAllPerLoans.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportTransAllPerMember.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportTransAll.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportTransAllPurchasesPerMem.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\ReportTransAllPurchases.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\coop_main.exe.config
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\coop_main.exe
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\coop_main.pdb
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\AForge.Controls.dll
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\AForge.dll
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\AForge.Video.dll
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\AForge.Imaging.dll
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\bin\Debug\AForge.Math.dll
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.active_members_list.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_trail.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.CapturePhoto.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.confirm_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.sucessprintmessage.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.withdraw_money_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.withdraw_money.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.logout.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.voidReason.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.createSupplier.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.end_of_the_day.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.List_Reports.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.message.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.printmessageR.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.printmessage.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Loans_Report.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Purchases_Report.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.ReportsForm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_prod_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.login.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.createUpdateUserAdmin.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_calculator.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_calculator_2.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money_pending.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_payment.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_payment_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regUpdate2.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regUpdate.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regviewDetails2.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regviewDetails.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.money_counter.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Sales_Report.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Transactions_Report.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction_per_individual.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.userAdminDetails.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.createAdmin.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.deactivating_members_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.delete_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.end_confirm_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.end_day_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.end_of_the_week.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.enter_items.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.enter_items_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Form1.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.EnterItems.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Form2.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Form3.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Form4.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.initial_deposit.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.initial_deposit_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_products.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_reports.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.loans.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_form.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Itemlist.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_record.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_reg.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_registration.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.members_registration_2.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.miscellaneous.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.openregister2.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.open_register.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.Properties.Resources.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.records_denied.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.record_success.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds_qty_input.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.saved_sales.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.save_member.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.sotck_req_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.createUser.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.stockreturnqty.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.stocks.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_receive_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_receiving.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_request.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_return.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_return_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.thumb_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction_history.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.user_accounts.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.stockreceiveinput.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.void_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.void_successful.resources
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.csproj.GenerateResource.Cache
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\RdlCompile.cache
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\RdlCompile.compiled
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.exe
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.pdb
+C:\Users\KL\Desktop\COOP\MAIN\coop_mains\coop_main\obj\x86\Debug\coop_main.csprojResolveAssemblyReference.cache
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\coop_main.exe.config
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.exe
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.pdb
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportListAllMember.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportListEmployee.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportListSupplier.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportLoanPayment.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReporAllFeeShareCap.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReporAllFeeProc.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReporAllFee1.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllProdLessQTY.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllProdExp.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllProdReturn.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllProd.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllProdReceive.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllProdReq.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllPurchItems.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllPurchProcByUser.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportAllPurchSupplier.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportLoansAllPaid.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportLoansAllUnpaid.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportLoansPerMember.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportLoansAll.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportLoansDueLoans.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportLoansProcUSer.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportMiscAuditTrail.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportMiscEndWeek.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportMiscEndDay.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportMiscInventoryReport.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportMiscTransHistory.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetailNonMemOnly.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetailMemOnly.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetail.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusNonMemOnly.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusMemOnly.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusSum.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSalesByItems.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSavedTrans.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\Reports\ReportAllProd.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportTransAllPerLoansPerMem.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportTransAllPerLoans.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportTransAllPerMember.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportTransAll.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportTransAllPurchasesPerMem.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportTransAllPurchases.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\coop_main.exe
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\coop_main.pdb
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\AForge.Imaging.dll
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\AForge.Math.dll
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.csprojResolveAssemblyReference.cache
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_trail.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.CapturePhoto.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.confirm_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.sucessprintmessage.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.withdraw_money_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.withdraw_money.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.logout.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.voidReason.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.createSupplier.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.end_of_the_day.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.List_Reports.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.message.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.printmessageR.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.printmessage.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Loans_Report.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Purchases_Report.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.ReportsForm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_prod_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.login.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.createUpdateUserAdmin.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_calculator.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_calculator_2.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money_pending.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_payment.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_payment_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regUpdate2.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regUpdate.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regviewDetails2.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regviewDetails.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.money_counter.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Sales_Report.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Transactions_Report.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction_per_individual.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.userAdminDetails.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.createAdmin.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.deactivating_members_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.delete_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.end_confirm_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.end_day_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.end_of_the_week.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.enter_items.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.enter_items_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Form1.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Form2.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Form3.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Form4.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.initial_deposit.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.initial_deposit_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_products.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_reports.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loans.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.members_form.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Itemlist.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.members_record.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.members_reg.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.members_registration_2.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.miscellaneous.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.openregister2.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.open_register.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.Properties.Resources.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.records_denied.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.record_success.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds_qty_input.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.saved_sales.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.save_member.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.sotck_req_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.createUser.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stockreturnqty.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stocks.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_receive_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_receiving.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_request.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_return.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_return_confirm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.thumb_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction_history.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_excel.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_pdf.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_print.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.user_accounts.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stockreceiveinput.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.void_confirmation.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.void_successful.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.csproj.GenerateResource.Cache
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\RdlCompile.cache
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\RdlCompile.compiled
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.openregisterExit.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.stocksExiit.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\bin\Debug\ReportSalesProcessBy.rdlc
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.voidlogin.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.confirmstuffs.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_payment_success.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.PreferencesForm.resources
+C:\Users\KL\Desktop\COOP\MAIN\with network\coop_mains\coop_main\obj\x86\Debug\coop_main.recordNewOR.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\coop_main.exe.config
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.exe
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.pdb
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSalesProcessBy.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportListAllMember.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportListEmployee.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportListSupplier.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportLoanPayment.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReporAllFeeShareCap.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReporAllFeeProc.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReporAllFee1.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllProdLessQTY.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllProdExp.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllProdReturn.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllProd.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllProdReceive.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllProdReq.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllPurchItems.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllPurchProcByUser.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportAllPurchSupplier.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportLoansAllPaid.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportLoansAllUnpaid.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportLoansPerMember.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportLoansAll.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportLoansDueLoans.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportLoansProcUSer.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportMiscAuditTrail.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportMiscEndWeek.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportMiscEndDay.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportMiscInventoryReport.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportMiscTransHistory.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetailNonMemOnly.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetailMemOnly.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSalesAllCusDetail.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusNonMemOnly.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusMemOnly.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSalesByAllCusSum.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSalesByItems.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportSavedTrans.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\Reports\ReportAllProd.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportTransAllPerLoansPerMem.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportTransAllPerLoans.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportTransAllPerMember.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportTransAll.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportTransAllPurchasesPerMem.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\ReportTransAllPurchases.rdlc
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\coop_main.exe
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\coop_main.pdb
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\AForge.Controls.dll
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\AForge.Video.DirectShow.dll
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\AForge.Imaging.dll
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\bin\Debug\AForge.Math.dll
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.csprojResolveAssemblyReference.cache
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_excel.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_pdf.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.active_member_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_excel.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_pdf.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.audit_trail.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.CapturePhoto.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.confirmstuffs.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.confirm_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_payment_success.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.PreferencesForm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.recordNewOR.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.voidlogin.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stocksExiit.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.openregisterExit.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.sucessprintmessage.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.withdraw_money_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.withdraw_money.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.logout.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.voidReason.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.createSupplier.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.end_of_the_day.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.List_Reports.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.message.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.printmessageR.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.printmessage.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_pdf.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Loans_Report.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Purchases_Report.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.ReportsForm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_excel.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_pdf.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.individual_trans_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_prod_excel.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.inv_excel.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.login.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.createUpdateUserAdmin.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_calculator.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_calculator_2.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money_pending.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_payment.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_payment_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regUpdate2.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regUpdate.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regviewDetails2.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.members_regviewDetails.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.money_counter.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Sales_Report.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Transactions_Report.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction_per_individual.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.userAdminDetails.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.createAdmin.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.deactivating_members_confirmation.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.delete_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.end_confirm_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.end_day_confirmation.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.end_of_the_week.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_confirmation.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_pdf.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.end_week_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.enter_items.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.enter_items_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Form1.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Form2.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Form3.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Form4.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.initial_deposit.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.initial_deposit_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_products.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.inventory_reports.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loans.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.loan_money.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.members_form.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Itemlist.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.members_record.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.members_reg.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.members_registration_2.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.miscellaneous.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.openregister2.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.open_register.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.Properties.Resources.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.records_denied.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.record_success.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds_confirmation.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.refunds_qty_input.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.saved_sales.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.save_member.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.sotck_req_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.createUser.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stockreturnqty.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stocks.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_receive_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_receiving.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_request.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_return.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stock_return_confirm.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.thumb_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.transaction_history.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_excel.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_pdf.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.trans_confirm_print.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.user_accounts.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.stockreceiveinput.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.void_confirmation.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.void_successful.resources
+D:\Completed Softwares\Desktop\COOP\test\coop_mains\coop_main\obj\x86\Debug\coop_main.csproj.GenerateResource.Cache
